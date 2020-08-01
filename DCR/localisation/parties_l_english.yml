@@ -11,6 +11,9 @@
  liberal:0 "Liberal"
  liberal_noun:0 "Liberalism"
 
+ social_democracy:0 "Social Democratic"
+ social_democracy_noun:0 "Social Democratic"
+
  fascism:0 "Nationalist"
  fascism_noun:0 "Nationalism"
 
@@ -21,6 +24,8 @@
  democratic_desc:0 "Conservative Regime"
 
  liberal_desc:0 "Liberal Regime"
+
+ social_democracy_desc:0 "Socialist Democratic Regime"
 
  maoism_desc:0 "Totalitarian Regime"
  
@@ -49,6 +54,9 @@
 
  anarchist_communism:0 "Anarchist Communism"
  anarchist_communism_desc:0 "An ideology embracing the idea of communism as a stateless society, Anarchist Communism eschews the idea of a transitionary socialist state and favors a society based on voluntary associations and mutual aid."
+
+ maoism_ideology:0 "Maoism"
+ maoism_ideology_desc:0 "Mao Zedong."
 
  nazism:0 "Nazism"
  nazism_desc:0 "Rooted in extreme nationalism, National Socialism is driven by ideas of Germanic supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power, the Führer."
@@ -131,12 +139,12 @@
  AUS_fascism_party:1 "DNSAP"
  AUS_neutrality_party:1 "Vaterländische Front"
 
- CHI_communism_party:0 "CPC"
- CHI_communism_party_long:0 "Communist Party of China"
  CHI_democratic_party:0 "China Democratic League"
  CHI_fascism_party:1 "BSB"
  CHI_fascism_party_long:1 "Blue Shirt Society"
  CHI_neutrality_party:0 "Kuomintang"
+ CHI_maoism_party:0 "TDSGL"
+ CHI_maoism_party_long:0 "Taiwan Democratic Self-Government League"
 
  XSM_neutrality_party:0 "Ma Clique"
  XSM_communism_party:0 "CPC"
@@ -591,10 +599,12 @@
  PAK_democratic_party:0 "Ganatantri Dal"
  PAK_communism_party:0 "Pakistan Socialist Party"
  PAK_neutrality_party:0 "Muslim League"
- PRC_democratic_party:0 "KMT-RC"
- PRC_democratic_party_long:0 "Kuomintang Revolutionary Committee"
- PRC_communism_party:0 "CPC"
- PRC_communism_party_long:0 "Communist Party of China"
+ PRC_democratic_party:0 "UOCN"
+ PRC_democratic_party_long:0 "Union of Chinese Nationalists"
+ PRC_communism_party:0 "CPC [Marxist-Leninist]"
+ PRC_communism_party_long:0 "Communist Party of China {Marxist-Leninist}"
+ PRC_maoism_party:0 "CPC"
+ PRC_maoism_party_long:0 "Communist Party of China"
  SHX_neutrality_party:0 "Kuomintang"
  SHX_communism_party:0 "CPC"
  SHX_communism_party_long:0 "Communist Party of China"

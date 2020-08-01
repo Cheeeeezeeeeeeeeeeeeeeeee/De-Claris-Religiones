@@ -1,0 +1,15 @@
+state={
+	id=808
+	name="STATE_808"
+        history={
+		owner = USA
+                add_core_of = USA
+}
+
+	provinces={
+		706 734 1436 3702 3733 3747 6707 6717 6795 6916 9664 9708 9721 11650 11654 11660 11680 
+	}
+	manpower=372120
+	buildings_max_level_factor=1.000
+        state_category=city
+}
