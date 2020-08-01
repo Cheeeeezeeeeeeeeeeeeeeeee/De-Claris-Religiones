@@ -1,0 +1,14 @@
+state={
+	id=804
+	name="STATE_804"
+	history = {
+    owner = AST
+    add_core_of = AST
+	}
+	provinces={
+		2219 5183 5211 5225 7567 8165 8186 8220 10925 10927 12910 
+	}
+	manpower=1453210
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,17 @@
+state={
+	id=802
+	name="STATE_802"
+	history = {
+    owner = HUN
+    add_core_of = HUN
+    add_core_of = CRO
+
+	}
+	
+	provinces={
+		6889 
+	}
+	manpower=42615
+	buildings_max_level_factor=1.000
+	state_category=city
+}

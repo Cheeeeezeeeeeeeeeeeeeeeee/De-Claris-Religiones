@@ -1,0 +1,21 @@
+state={
+	id=806
+	name="STATE_806"
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = AST
+
+	}
+	
+	provinces={
+		5206 10336 10936 10955 
+	}
+	manpower=21210
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
